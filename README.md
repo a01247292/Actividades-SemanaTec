@@ -1,2 +1,2 @@
 # Actividades-SemanaTec
-Actividades hechas en clase del profe Omar durante la SemanaTec.
+Durante esta SemanaTec realizamos 3 actividades en la primera creamos un repositorio con dos ramas en main y lo pusimos en un archivo READ.MD y realizamos una carpeta para la actividad 1, para la actividad 2 hicimos una prueba en la cual hicimos un programa en el que pudimos subir una foto y editarla con operaciones básicas y realizamos una tarea en la que hicimos algo parecido pero con 5 imágenes distintas. Finalmente para la act 3 con un arvhivo de imagenes procesadas de emojis y realizamos un programa que ajustaba todas las imagenes con un modelo MLP que evaluaba su rendimiento.
